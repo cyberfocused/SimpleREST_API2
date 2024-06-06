@@ -1,6 +1,6 @@
 # 
 
-## Step #1 -once I hace set up all of the folders in Visula Studio Code, I open a new terminal window
+## Step #1 -once I have set up all of the folders in Visula Studio Code, I open a new terminal window
 ##          and type npm initialize (node package manger- this creates the "package.json" file)
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/1.jpg) 
 
