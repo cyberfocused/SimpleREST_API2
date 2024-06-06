@@ -14,3 +14,6 @@
 ## Step #4 - Here I am testing the API code I have so far
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/4.jpg) 
 
+## Step #5 - I tested to see that the http mesage loads in a browser:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/5.jpg) 
+
