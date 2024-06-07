@@ -79,3 +79,9 @@
 
 ## ... code for the new patient and it prints in the terminal:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/18b.jpg)
+
+## Step #19 - Update existing Patient phone number:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/19a.jpg) 
+
+## ... error - Patient not found:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/19b.jpg)
