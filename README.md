@@ -33,5 +33,8 @@
 ## Step #10 -testing the Delete function in Postman:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/10a.jpg) 
 
+## Step #11 -I added two new patients and records for each of them:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/11.jpg) 
+
 
 
