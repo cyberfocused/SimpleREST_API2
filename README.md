@@ -42,5 +42,10 @@
 ## HTTP request is used to send the authentication data
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/12.jpg) 
 
+## Step #13 -I request the medical records in the body:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/13b1.jpg) 
+
+## ... the medical records request printed in the Terminal:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/13b2.jpg)
 
 
