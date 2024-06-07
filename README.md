@@ -1,6 +1,6 @@
 # 
 
-## Step #1 -once I have set up all of the folders in Visula Studio Code, I open a new terminal window
+## Step #1 -once I have set up all of the folders in Visual Studio Code, I open a new terminal window
 ##          and type npm initialize (node package manger- this creates the "package.json" file)
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/1.jpg) 
 
@@ -73,3 +73,9 @@
 
 ## ... error "501 will display if the records are improperly requested":
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/17a.jpg)
+
+## Step #18 - creating a new patient in Postman:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/18a.jpg) 
+
+## ... code for the new patient and it prints in the terminal:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/18b.jpg)
