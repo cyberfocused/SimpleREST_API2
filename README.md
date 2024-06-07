@@ -68,9 +68,8 @@
 ## ... error "401 Unauthorized is generated "first/Last name didn't match SSN":
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/16b.jpg)
 
-## Step #17 -Code created in Visual Studio that will generate errors if
-## if the first and lat names are correct but ssn# is incorrectly entered:
-![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/16a.jpg) 
+## Step #17 - if the patient requests his records they will dislay:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/17.jpg) 
 
-## ... error "401 Unauthorized is generated "first/Last name didn't match SSN":
-![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/16b.jpg)
+## ... error "501 will display if the records are improperly requested":
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/17a.jpg)
