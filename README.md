@@ -17,3 +17,6 @@
 ## Step #5 - I tested to see that the http mesage loads in a browser:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/5.jpg) 
 
+## Step #6 -I added app.get, app.post, app.put, and app.delete in my code and then tested each function in Postman:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/6.jpg) 
+
