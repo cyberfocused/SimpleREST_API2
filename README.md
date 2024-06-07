@@ -51,3 +51,8 @@
 ## Step #14 -I request the medical records in the body:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/14.jpg)
 
+## Step #15 -I ran a test by entering an INVALID SSN#:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/15a.jpg) 
+
+## ... the terminal cannot return information:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/15b.jpg)
