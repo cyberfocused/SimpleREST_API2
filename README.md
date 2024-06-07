@@ -51,8 +51,12 @@
 ## Step #14 -I request the medical records in the body:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/14.jpg)
 
-## Step #15 -I ran a test by entering an INVALID SSN#:
-![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/15a.jpg) 
+## Step #15 -I entered code for VS Code to generate a "Status Code 404 error#
+## if the wrong SSN# is entered:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/15c.jpg) 
 
-## ... the terminal cannot return information:
-![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/15b.jpg)
+## ... I enter an INVALID SSN# in Postman to test:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/15a.jpg)
+
+## ...  Postman generates Status Code- '404 Not Found :
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/15d.jpg)
