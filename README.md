@@ -20,17 +20,17 @@
 ## Step #6 -I added app.get, app.post, app.put, and app.delete in my code and then tested each function in Postman:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/6.jpg) 
 
-## Step #7 -I added app.get, app.post, app.put, and app.delete in my code and then tested each function in Postman:
+## Step #7 -testing the Get function in Postman:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/7.jpg) 
 
 
-## Step #8 -I added app.get, app.post, app.put, and app.delete in my code and then tested each function in Postman:
+## Step #8 -testing the Post function in Postman:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/8.jpg) 
 
-## Step #9 -I added app.get, app.post, app.put, and app.delete in my code and then tested each function in Postman:
+## Step #9 -testing the Put function in Postman:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/9.jpg) 
 
-## Step #10 -I added app.get, app.post, app.put, and app.delete in my code and then tested each function in Postman:
+## Step #10 -testing the Delete function in Postman:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/10.jpg) 
 
 
