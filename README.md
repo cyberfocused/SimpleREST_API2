@@ -67,3 +67,10 @@
 
 ## ... error "401 Unauthorized is generated "first/Last name didn't match SSN":
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/16b.jpg)
+
+## Step #17 -Code created in Visual Studio that will generate errors if
+## if the first and lat names are correct but ssn# is incorrectly entered:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/16a.jpg) 
+
+## ... error "401 Unauthorized is generated "first/Last name didn't match SSN":
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/16b.jpg)
