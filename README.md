@@ -38,8 +38,8 @@
 
 ## Step #12 -When I send the request to the API, I want to be able to
 ## validate the person to make sure they exist ( that their SSN# matches
-##and that the appropriate record is returned. The header of the 
-##HTTP request is used to send the authentication data
+## and that the appropriate record is returned. The header of the 
+## HTTP request is used to send the authentication data
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/12.jpg) 
 
 
