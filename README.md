@@ -25,13 +25,13 @@
 
 
 ## Step #8 -testing the Post function in Postman:
-![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/8.jpg) 
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/8a.jpg) 
 
 ## Step #9 -testing the Put function in Postman:
-![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/9.jpg) 
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/9a.jpg) 
 
 ## Step #10 -testing the Delete function in Postman:
-![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/10.jpg) 
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/10a.jpg) 
 
 
 
