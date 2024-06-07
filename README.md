@@ -48,4 +48,6 @@
 ## ... the medical records request printed in the Terminal:
 ![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/13b2.jpg)
 
+## Step #14 -I request the medical records in the body:
+![image](https://github.com/cyberfocused/SimpleRest_API2/blob/main/14.jpg)
 
